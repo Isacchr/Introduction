@@ -1,7 +1,28 @@
 h1{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 400px;
+    height: 500px;
+}
+
+.picture{
+    float: right;
+}
+
+.content{
+    float: left;
+    width: 50%;
+    border: solid 1px black;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
 }
 
 body{
-    text-align: center;
+    margin-left:20px ;
+    margin-right: 20px;
 }
